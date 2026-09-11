@@ -1,6 +1,6 @@
 <!-- SHORT_DESCRIPTION_START -->
 Free and powerful Web IFC viewer to manage your BIM models
- <!-- SHORT_DESCRIPTION_END -->
+<!-- SHORT_DESCRIPTION_END -->
 A Free and powerful Web IFC Viewer to manage your BIM models.
 
 🇬🇧 UK Office:
